@@ -1,5 +1,5 @@
 # photo-gallery
-Photo gallery application(Coding Ninja)
+Photo gallery application(Conatins Coding Ninja photos)
 Project is about the ‘Photo Gallery’ website, which we modified as i thought it to make a one 
 stop platform for all users where they can not only see photos but experience also. Apart from 
 that, i also integrated other forms like created a option of live webcam option on another page
